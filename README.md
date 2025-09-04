@@ -1,16 +1,19 @@
 # PF-Lab-03-25K-2067
 first repo
 
-**Hi this is Abbas**
+**Hi this is Abbas. I am student of cyber security in Fast. I love Programming, Networking and Ethical Hacking**
+I have learnt these programming tech
+1. Html
+2. CSS
+3. JavaScript
+4. Bootstrap
 
-*I Have Studied These Subjects*
-1. Maths
-2. Physics
-3. Computer
-   
-*These are common subjects*
-- Urdu
-- English
-- Islamiat
+***Future Plans***
+- PHP
+- C#
+- Asp.Net
+- Linux
+- Networking
+
   
 ***Good Bye***
