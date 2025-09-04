@@ -7,6 +7,7 @@ first repo
 1. Maths
 2. Physics
 3. Computer
+   
 *These are common subjects*
 - Urdu
 - English
